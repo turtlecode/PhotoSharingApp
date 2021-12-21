@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393027736425",
+    "project_id": "photoshari-f19a9",
+    "storage_bucket": "photoshari-f19a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393027736425:android:9938c6469902f6704ea3f8",
+        "android_client_info": {
+          "package_name": "com.turtlecode.photosharing_androidkotlinfirebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393027736425-sq3iej2qjabklctfdv01155s69qtrtb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjVeewEvwvgphEGLTWrUSS-RGdK_bDx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393027736425-sq3iej2qjabklctfdv01155s69qtrtb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
